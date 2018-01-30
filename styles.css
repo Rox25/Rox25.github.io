@@ -1,5 +1,5 @@
 html, body {
-	background: #663399; /* Beccapurple */
+	background: #ff3399;
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -54,10 +54,10 @@ pre {
 	width: 80%;
 }
 pre.wrong {
-	border-left-color: red;
+	border-left-color: black;
 }
 pre.correct {
-	border-left-color: green;
+	border-left-color: white;
 }
 dt {
 	font-style: italic;
