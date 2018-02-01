@@ -21,13 +21,13 @@ body {
 	border-style: dotted;
 }
 h1 {
-	font: 1.6em Verdana, Geneva, sans-serif;
+	font: 1.6em Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 	margin-bottom: .4em;
 	color: rgb(83, 104, 138);
 	boder-style: solid;
 }
 h2 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	font: 3.2em Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-seriff;
 	margin-bottom: .2em;
 	boder-style: double;
 }
