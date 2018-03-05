@@ -50,7 +50,7 @@ a:hover {
   outline: 0;
 }
 abbr[title] {
-  border-bottom: 1px dotted;
+  border-bottom: 1px solid;
 }
 b,
 strong {
@@ -68,7 +68,7 @@ mark {
   background: #ff0;
 }
 small {
-  font-size: 80%;
+  font-size: 75%;
 }
 sub,
 sup {
